@@ -1,7 +1,7 @@
 # Wildlife Tracker - Real time movement analytics
 
 ## Introduction
-Thanks to the advances in data streaming and tracking technologies the **Wildlife Tracker** is software capable of revealing animal behavior in **real-time visibility**
+Thanks to the advances in data streaming and tracking technologies the **Wildlife Tracker** is software capable of revealing animal behavior in **real-time visibility.**
 This software is capable of real-time geo-visualization and its development includes movement analytic's algorithms that can reveal the behavior of wildlife. In the first release, the software includes real-time data streaming and animal behavior analytics as Open Source. It means that institutions dedicated to Nature Conservation will be able to implement the software in their projects for free.
 
 [Wildlife Tracker Presentation]()
