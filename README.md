@@ -1,4 +1,4 @@
-# Wildlife Tracker - Demos
+# Wildlife Tracker - Real time movement analytics
 
 ## Introduction
 Thanks to the advances in data streaming and tracking technologies the **Wildlife Tracker** is software capable of revealing animal behavior in **real-time visibility**
