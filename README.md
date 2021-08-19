@@ -24,3 +24,7 @@ This software is capable of real-time geo-visualization and its development incl
 ## Great Whale's migration routes
 [DEMO HERE](https://gis-move-analytics.github.io/wildlife-tracker/root/azores-demo.html)
 ![animation](gif/azores-gif.gif)
+
+## Great Whale's migration routes II Foraging Spots
+[DEMO HERE](https://gis-move-analytics.github.io/wildlife-tracker/root/azores-II-demo.html)
+![animation](gif/azores-ii-gif.gif)
