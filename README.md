@@ -25,7 +25,7 @@ This software is capable of real-time geo-visualization and its development incl
 ## Foraging behavior of Adélie penguins
 [DEMO HERE](https://gis-move-analytics.github.io/wildlife-tracker/root/foraging-penguins-demo.html)
 ![animation](gif/penguin-foraging-gif.gif)
-![animation](gif/penguins.gif)
+![animation](gif/penguins-gif.gif)
 
 ## Great Whale's migration routes
 [DEMO HERE](https://gis-move-analytics.github.io/wildlife-tracker/root/azores-demo.html)
