@@ -11,15 +11,21 @@ This software is capable of real-time geo-visualization and its development incl
 # Demos
 ## Nesting behavior in Bird's migration routes
 [DEMO HERE](https://gis-move-analytics.github.io/wildlife-tracker/root/birds-demo.html)
-![animation](gif/birds-gif.gif)
+![animation](gif/birds-trace-gif.gif)
 
-## Feeding spots detection in Blue Whales behavior
+## Foraging spots detection in Blue Whales behavior
 [DEMO HERE](https://gis-move-analytics.github.io/wildlife-tracker/root/whales-demo.html)
 ![animation](gif/whales-gif.gif)
+![animation](gif/bluewhale-trace-gif.gif)
+
+## Movements of Adélie penguins
+[DEMO HERE](https://gis-move-analytics.github.io/wildlife-tracker/root/moves-penguins-demo.html)
+![animation](gif/penguin-trace-gif.gif)
 
 ## Foraging behavior of Adélie penguins
-[DEMO HERE](https://gis-move-analytics.github.io/wildlife-tracker/root/penguins-demo.html)
-![animation](gif/penguins-gif.gif)
+[DEMO HERE](https://gis-move-analytics.github.io/wildlife-tracker/root/foraging-penguins-demo.html)
+![animation](gif/penguin-foraging-gif.gif)
+![animation](gif/penguins.gif)
 
 ## Great Whale's migration routes
 [DEMO HERE](https://gis-move-analytics.github.io/wildlife-tracker/root/azores-demo.html)
